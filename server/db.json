@@ -1,0 +1,48 @@
+{
+    "contacts" :[
+     {
+        "id":"AA@#$S123",
+        "name":"shivam" ,
+        "photo":"https://toppng.com/uploads/preview/icons-logos-emojis-user-icon-png-transparent-11563566676e32kbvynug.png",
+        "mobile":"7566896917",
+        "email":"shivam@gmail.com",
+        "title":"software eng" ,
+        "group":"1"
+
+     },
+     {
+        "id":"AA@#$S123",
+        "name":"shivam" ,
+        "photo":"https://toppng.com/uploads/preview/icons-logos-emojis-user-icon-png-transparent-11563566676e32kbvynug.png",
+        "mobile":"7566896917",
+        "email":"shivam@gmail.com",
+        "title":"software eng" ,
+        "group":"1"
+
+     },
+     {
+        "id":"AA@#$S123",
+        "name":"shivam" ,
+        "photo":"https://toppng.com/uploads/preview/icons-logos-emojis-user-icon-png-transparent-11563566676e32kbvynug.png",
+        "mobile":"7566896917",
+        "email":"shivam@gmail.com",
+        "title":"software eng" ,
+        "group":"1"
+
+     }
+  ],
+"group":[
+    {
+        "id":"1",
+        "name":"colleague"
+    },
+    {
+        "id":"1",
+        "name":"colleague"
+    },
+    {
+        "id":"1",
+        "name":"colleague"
+    }
+ ]
+}
